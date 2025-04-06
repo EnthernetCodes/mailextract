@@ -136,6 +136,7 @@ def extract_email_and_company_from_csv(input_csv, output_csv):
     print(f"[✅] Extracted emails and company names saved to '{output_csv}'")
 
 # ======= Main Execution =======
+'''
 if __name__ == "__main__":
     session = requests.Session()
     niche = input("Enter the niche to search for: ").strip()
@@ -155,3 +156,4 @@ if __name__ == "__main__":
     extract_email_and_company_from_csv("machine_scraped_companies.csv", f"{niche}.csv")
 
     print("[✅] Scraping Complete!")
+'''

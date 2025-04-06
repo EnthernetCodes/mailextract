@@ -7,23 +7,29 @@
     <p>Stage: <strong>{{ progress.current_stage }}</strong></p>
     <p>Details: {{ progress.progress_detail }}</p>
     <br>
-    <h2>Results</h2>
-    <table border="1">
+<h3>Results</h3>
+{% if company_data %}
+<table border="1">
+    <thead>
         <tr>
-            <th>Company Name</th>
-            <th>Email</th>
+            <th>Emails</th>
             <th>Website</th>
             <th>Europages Profile</th>
         </tr>
-        {% for c in companies %}
-        <tr>
-            <td>{{ c.website.split('//')[-1].split('/')[0] }}</td>
-            <td>{{ c.emails.split(',')[0] }}</td>
-            <td><a href="{{ c.website }}" target="_blank">Website</a></td>
-            <td><a href="{{ c.europages_profile }}" target="_blank">Profile</a></td>
-        </tr>
+    </thead>
+    <tbody>
+        {% for company in company_data %}
+            <tr>
+                <td>{{ company["Emails"] }}</td>
+                <td><a href="{{ company["Website"] }}" target="_blank">{{ company["Website"] }}</a></td>
+                <td><a href="{{ company["Europages Profile"] }}" target="_blank">View</a></td>
+            </tr>
         {% endfor %}
-    </table>
+    </tbody>
+</table>
+{% else %}
+<p>No data found.</p>
+{% endif %}
     <br>
     <a href="/download/{{ progress.niche }}">Download CSV</a>
     <br><br>

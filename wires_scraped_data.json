@@ -3,8 +3,8 @@
         "Europages Profile": "https://www.europages.co.uk/INDUPLAST-PLASTICOS-DE-INGENIERIA/00000005408978-001.html",
         "Website": "https://induplast.es/en/",
         "Emails": [
-            "ventas@induplast.es",
             "info@induplast.es",
+            "ventas@induplast.es",
             "youremail@example.com"
         ]
     },
@@ -24,6 +24,13 @@
         ]
     },
     {
+        "Europages Profile": "https://www.europages.co.uk/SICMI-SRL/00000005522851-001.html",
+        "Website": "https://www.sicmi.com/",
+        "Emails": [
+            "info@sicmi.it"
+        ]
+    },
+    {
         "Europages Profile": "https://www.europages.co.uk/TECHNIC-MACHINES/00000005519171-001.html",
         "Website": "https://www.technicmachines.com/",
         "Emails": [
@@ -34,9 +41,9 @@
         "Europages Profile": "https://www.europages.co.uk/TEMA-METALURJI-SAN-TIC-LTD-STI/00000005529722-001.html",
         "Website": "https://www.temametalurji.com/anasayfa.html",
         "Emails": [
+            "info@temametalurji.com",
             "info@prfabrikasi.com",
-            "export@temametalurji.com",
-            "info@temametalurji.com"
+            "export@temametalurji.com"
         ]
     },
     {
@@ -51,18 +58,18 @@
         "Website": "https://www.gravotech.com/?utm_source=ep",
         "Emails": [
             "web.us@gravotech.com",
-            "contact@gravotech.com",
-            "example@example.com"
+            "example@example.com",
+            "contact@gravotech.com"
         ]
     },
     {
         "Europages Profile": "https://www.europages.co.uk/SYSAP-INDUSTRIES/00000005402417-733333001.html",
         "Website": "https://www.naturewash.fr/",
         "Emails": [
+            "bfb679c754744c58a7374ee6e25cfc13@sentry.wixpress.com",
             "8c4075d5481d476e945486754f783364@sentry.io",
             "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
-            "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-            "bfb679c754744c58a7374ee6e25cfc13@sentry.wixpress.com"
+            "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
         ]
     },
     {
@@ -84,8 +91,8 @@
         "Europages Profile": "https://www.europages.co.uk/SAWINMAK-PVC-MACHINES/00000004608007-420086001.html",
         "Website": "http://www.sawinmak.com/",
         "Emails": [
-            "info@sawinmak.com",
-            "ajax-loader@2x.gif"
+            "ajax-loader@2x.gif",
+            "info@sawinmak.com"
         ]
     },
     {
@@ -124,11 +131,18 @@
         ]
     },
     {
+        "Europages Profile": "https://www.europages.co.uk/BAS-MACHINEBOUW/00000005555071-001.html",
+        "Website": "https://basmachinebouw.nl/",
+        "Emails": [
+            "info@basmachinebouw.nl"
+        ]
+    },
+    {
         "Europages Profile": "https://www.europages.co.uk/BERGER-TECHNOLOGIE-GMBH/00000005296436-606003001.html",
         "Website": "https://bergertech.ch/de/Werkzeugschleiftechnik",
         "Emails": [
-            "info@bergertech.ch",
-            "marc.broennimann@bergertech.ch"
+            "marc.broennimann@bergertech.ch",
+            "info@bergertech.ch"
         ]
     },
     {
@@ -157,27 +171,27 @@
         "Europages Profile": "https://www.europages.co.uk/KOBAMET-SPOLKA-ZOO/00000005550464-001.html",
         "Website": "https://kobamet.pl",
         "Emails": [
+            "szlifpoler@kobamet.com.pl",
             "kobamet@kobamet.com.pl",
-            "zaopatrzenie@kobamet.com.pl",
-            "szlifpoler@kobamet.com.pl"
+            "zaopatrzenie@kobamet.com.pl"
         ]
     },
     {
         "Europages Profile": "https://www.europages.co.uk/EMSIL-TECHTRANS-SRL/00000005478095-001.html",
         "Website": "https://www.emsilgroup.com",
         "Emails": [
-            "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
             "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
-            "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
-            "bfb679c754744c58a7374ee6e25cfc13@sentry.wixpress.com"
+            "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+            "bfb679c754744c58a7374ee6e25cfc13@sentry.wixpress.com",
+            "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
         ]
     },
     {
         "Europages Profile": "https://www.europages.co.uk/GEN-MILLING/00000005403103-734781001.html",
         "Website": "https://www.genmilling.com",
         "Emails": [
-            "info@genmilling.com",
-            "info@genmilling.comy"
+            "info@genmilling.comy",
+            "info@genmilling.com"
         ]
     },
     {
@@ -206,8 +220,8 @@
         "Website": "https://www.krw.de/en/",
         "Emails": [
             "sales@krw.de",
-            "info@krw.de",
-            "hr@krw.de"
+            "hr@krw.de",
+            "info@krw.de"
         ]
     },
     {
@@ -227,19 +241,11 @@
         ]
     },
     {
-        "Europages Profile": "https://www.europages.co.uk/VIRMER/00000005473907-001.html",
-        "Website": "https://virmer.com/?utm_source=europage",
-        "Emails": [
-            "help@virmer.com",
-            "info@virmer.com"
-        ]
-    },
-    {
         "Europages Profile": "https://www.europages.co.uk/SECA-AGRICULTURE-MACHINERY/00000005483723-001.html",
         "Website": "https://secaagri.com/",
         "Emails": [
-            "export@secatarim.com.tr",
             "exportsc@secaagri.com",
+            "export@secatarim.com.tr",
             "info@secatarim.com.tr"
         ]
     },
@@ -248,6 +254,23 @@
         "Website": "http://www.moval-srl.it",
         "Emails": [
             "info@moval-srl.it"
+        ]
+    },
+    {
+        "Europages Profile": "https://www.europages.co.uk/FOCUS-GMBH-GERATE-ZUR-ELEKTRONENSPEKTROSKOPIE-UND-OBERFLACHENANALYTIK/00000005404610-001.html",
+        "Website": "https://www.focus-e-welding.de/",
+        "Emails": [
+            "RQ0A4738-1@05x-edited-1-500x375.png",
+            "focus-sales@specs.com",
+            "Fotolia_64541024_XL_CMYK@05x-edited-1-768x576.png",
+            "Fotolia_64541024_XL_CMYK@05x-edited-1.png",
+            "RQ0A4738-1@05x-edited-1-300x225.png",
+            "Fotolia_64541024_XL_CMYK@05x-edited-1-500x375.png",
+            "Fotolia_64541024_XL_CMYK@05x-edited-1-1024x768.png",
+            "Fotolia_64541024_XL_CMYK@05x-edited-1-300x225.png",
+            "sales@focus-gmbh.com",
+            "RQ0A4738-1@05x-edited-1-768x576.png",
+            "RQ0A4738-1@05x-edited-1.png"
         ]
     },
     {
@@ -303,16 +326,16 @@
         "Europages Profile": "https://www.europages.co.uk/DOLZAN-IMPIANTI-SRL/SEAC000020441-001.html",
         "Website": "http://www.dolzan.com/",
         "Emails": [
-            "dolzanimpiantisrl@upapec.it",
-            "dolzan@dolzan.com"
+            "dolzan@dolzan.com",
+            "dolzanimpiantisrl@upapec.it"
         ]
     },
     {
         "Europages Profile": "https://www.europages.co.uk/ACUSTICA-INTEGRAL-SL/ESP187941-00101.html",
         "Website": "http://www.acusticaintegral.com",
         "Emails": [
-            "info@acusticaintegral.com",
-            "international@acusticaintegral.com"
+            "international@acusticaintegral.com",
+            "info@acusticaintegral.com"
         ]
     },
     {
@@ -326,8 +349,15 @@
         "Europages Profile": "https://www.europages.co.uk/CAMELLINI-E-SANGIORGI-SRL/00000005549619-001.html",
         "Website": "https://www.camelliniesangiorgi.it/",
         "Emails": [
-            "tecnico@camelliniesangiorgi.it",
-            "amministrazione@camelliniesangiorgi.it"
+            "amministrazione@camelliniesangiorgi.it",
+            "tecnico@camelliniesangiorgi.it"
+        ]
+    },
+    {
+        "Europages Profile": "https://www.europages.co.uk/ALTMANN-GRAPHISCHE-MASCHINEN-GMBH/00000005318634-001.html",
+        "Website": "https://www.altmann-graphic.com",
+        "Emails": [
+            "info@altmann-graphic.com"
         ]
     },
     {
@@ -355,46 +385,16 @@
         "Europages Profile": "https://www.europages.co.uk/INATECH-PACKAGING/00000005355149-651732001.html",
         "Website": "https://www.inatech-shop.ro",
         "Emails": [
-            "office@inatech.ro",
-            "example@domain.com"
+            "example@domain.com",
+            "office@inatech.ro"
         ]
     },
     {
-        "Europages Profile": "https://www.europages.co.uk/SICMI-SRL/00000005522851-001.html",
-        "Website": "https://www.sicmi.com/",
+        "Europages Profile": "https://www.europages.co.uk/VIRMER/00000005473907-001.html",
+        "Website": "https://virmer.com/?utm_source=europage",
         "Emails": [
-            "info@sicmi.it"
-        ]
-    },
-    {
-        "Europages Profile": "https://www.europages.co.uk/BAS-MACHINEBOUW/00000005555071-001.html",
-        "Website": "https://basmachinebouw.nl/",
-        "Emails": [
-            "info@basmachinebouw.nl"
-        ]
-    },
-    {
-        "Europages Profile": "https://www.europages.co.uk/FOCUS-GMBH-GERATE-ZUR-ELEKTRONENSPEKTROSKOPIE-UND-OBERFLACHENANALYTIK/00000005404610-001.html",
-        "Website": "https://www.focus-e-welding.de/",
-        "Emails": [
-            "sales@focus-gmbh.com",
-            "Fotolia_64541024_XL_CMYK@05x-edited-1.png",
-            "focus-sales@specs.com",
-            "Fotolia_64541024_XL_CMYK@05x-edited-1-1024x768.png",
-            "Fotolia_64541024_XL_CMYK@05x-edited-1-768x576.png",
-            "Fotolia_64541024_XL_CMYK@05x-edited-1-300x225.png",
-            "Fotolia_64541024_XL_CMYK@05x-edited-1-500x375.png",
-            "RQ0A4738-1@05x-edited-1.png",
-            "RQ0A4738-1@05x-edited-1-500x375.png",
-            "RQ0A4738-1@05x-edited-1-768x576.png",
-            "RQ0A4738-1@05x-edited-1-300x225.png"
-        ]
-    },
-    {
-        "Europages Profile": "https://www.europages.co.uk/ALTMANN-GRAPHISCHE-MASCHINEN-GMBH/00000005318634-001.html",
-        "Website": "https://www.altmann-graphic.com",
-        "Emails": [
-            "info@altmann-graphic.com"
+            "info@virmer.com",
+            "help@virmer.com"
         ]
     }
 ]
